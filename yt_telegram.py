@@ -1,7 +1,7 @@
 import telebot
 from pytube import YouTube
 
-bot = telebot.TeleBot("5151650799:AAEjvrQ7oJuM8vz1PsxV0qQAHy1Zt1jsdJk")
+bot = telebot.TeleBot("token")
 
 DOWNLOAD_FOLDER = "E:/Video"
 
